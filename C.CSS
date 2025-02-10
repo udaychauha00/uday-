@@ -1,0 +1,49 @@
+nav{
+    background-color: black;
+}
+a{
+    padding: 80px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, ;
+}
+header{
+    background-color: rgb(202, 202, 202);
+    height: 100px;
+    padding-top: 30px;
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+
+}
+div{
+    display: inline-block;
+
+}
+.box1{
+    height: 2000px;
+    width: 430px;
+    background-color: rgb(211, 0, 35);
+    margin-right: 50px;
+    text-align: center;
+}
+.box2{
+    height: 2000px;
+    width: 430px;
+    background-color: rgb(89, 0, 255);
+    margin-right: 50px;
+    text-align: center;
+}
+.box3{
+    height: 2000px;
+    width: 430px;
+    background-color: rgb(255, 146, 3);
+    text-align: center;
+}
+.ubox1{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(204, 0, 136);
+    color: rgb(0, 0, 0);
+}
